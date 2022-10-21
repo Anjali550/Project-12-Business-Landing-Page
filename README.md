@@ -1,5 +1,5 @@
 ## 🔗Project 12 Link
-
+https://project-12-live-link.netlify.app/
 <br>
 
 # ✨ Project 12 : Business Landing Page ✨
